@@ -18,3 +18,4 @@ t/rtml/ers_observation_accepted.xml
 t/rtml/ers_score_reply.xml            
 t/rtml/ers_observation_rejected.xml  
 t/rtml/ers_target_observed.xml
+META.yml                                Module meta-data (added by MakeMaker)
